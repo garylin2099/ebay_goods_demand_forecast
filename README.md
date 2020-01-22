@@ -1,1 +1,2 @@
 # ebay_goods_demand_forecast
+This project was modified from my internship project at eBay, in which I used time series model (ARIMA) to predict the demand of goods on eBay to better inform eBay sellers of inventory preparation. Prediction was executed in parallel to expedite the process. Internal information has been hidden. My mentor is Z. Shao and I'm deeply grateful to his guidance in this project.
